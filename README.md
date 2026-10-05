@@ -1,2 +1,9 @@
-# AiSP_2026_2027_KM
-Repozytorium utworzone w celu przechowywania projektów, przykładów i notatek z przedmiotu "Algorytmy i Struktury Danych" w roku akademickim 2026/2027 na potrzeby własne.
+# Polski
+## Zawartość i przeznaczenie
+To repozytorium zostało utworzone w celu archiwizacji posiadanych przeze mnie projektów i przykładów związanych z przedmiotem "Algorytmy i Struktury Danych" w roku akademickim 2026/2027. \n
+Jeżeli natrafiłeś na nie przez przypadek, sugeruję je zignorować./n
+
+# English
+## Purpose & contents
+This repository holds projects and examples regarding the subject "Algorithms & Data Structures" that i have accumulated during academic year 2026/2027. \n
+If you had found this repository by accident, i suggest you ignore it.\n
